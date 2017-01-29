@@ -1,0 +1,7 @@
+growpart
+sfdisk
+xfs_repair
+xfs_growfs
+sed
+awk
+partprobe
